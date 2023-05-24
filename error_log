@@ -1,0 +1,1 @@
+[12-May-2023 19:12:43 UTC] PHP Fatal error:  Declaration of App\Imports\NoRegistradosImport::model(array $row, $key) must be compatible with Maatwebsite\Excel\Concerns\ToModel::model(array $row) in /home/yxjrrlkclvhs/public_html/empleo.desarrollobullmarketing.com/app/Imports/NoRegistradosImport.php on line 27
